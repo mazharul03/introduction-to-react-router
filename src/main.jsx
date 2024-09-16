@@ -10,7 +10,7 @@ import Home from './Component/Home/Home.jsx';
 import About from './Component/About/About.jsx';
 import Contact from './Component/Contact/Contact.jsx';
 import Users from './Component/Users/Users.jsx';
-import UserDetails from './Component/UsreDetails/UserDetails.jsx';
+import UserDetails from './Component/UserDetails/UserDetails.jsx';
 import Posts from './Component/Posts/Posts.jsx';
 import PostDetails from './Component/PostDetails/PostDetails.jsx';
 import ErrorPage from './Component/ErrorPage/ErrorPage.jsx';
